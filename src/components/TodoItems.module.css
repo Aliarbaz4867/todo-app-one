@@ -1,0 +1,11 @@
+.itemsContainer {
+  margin: 20px;
+  margin-bottom: 20px;
+  /* background-color: #e3e7e8; */
+  background-color: #fffde6;
+  display: flexbox;
+  border-radius: 3px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-style: ridge;
+}

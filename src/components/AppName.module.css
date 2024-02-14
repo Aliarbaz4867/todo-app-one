@@ -1,0 +1,14 @@
+.todoHeading {
+    font-weight: 700;
+    font-size: 40px;
+    margin: 20px;
+    margin-bottom: 20px;
+    /* background-color: #aee5e7; */
+    background-color: #f0b616;
+    display: flexbox;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+       
+  }
+  
